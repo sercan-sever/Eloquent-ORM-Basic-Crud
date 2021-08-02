@@ -1,2 +1,2 @@
 # Eloquent-ORM-Basic-Crud
-Eloquent ORM Kullanarak Basit CRUD İşlemleri
+Laravel Eloquent ORM Kullanarak Basit CRUD İşlemleri
